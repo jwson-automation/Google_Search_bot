@@ -10,3 +10,5 @@ This program is certainly opened. You can change, fix, and use with any perpose.
 
 2022-07-09 Start making this program.
 
+2022-07-15 sample update
+
